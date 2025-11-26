@@ -68,7 +68,7 @@ const Membership: React.FC = () => {
               </ul>
 
               <a 
-                  href="https://www.facebook.com/profile.php?id=61580015338194"
+                  href="https://guru.gyminsight.com/join/7FWhyClX0ppqFxM?optionId=46e759de-3039-4bae-b67e-d7472f10a44c&fbclid=IwZnRzaAOTSv1leHRuA2FlbQIxMQBzcnRjBmFwcF9pZAo2NjI4NTY4Mzc5AAEeAmxJfjgx6nWrwvND_jozhCWsAMOw8u-Oo_D-eS5W_XYFmuHXMkMoiWwIGZ4_aem_VrQR238T3KXg6dw9mlLh3g"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="block text-center mt-auto w-full py-3 bg-neon-cyan text-black font-display font-bold text-lg uppercase hover:bg-white hover:text-black transition-colors"

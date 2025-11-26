@@ -1,3 +1,4 @@
+
 import React from 'react';
 
 const Footer: React.FC = () => {
@@ -13,12 +14,12 @@ const Footer: React.FC = () => {
       {/* Sticky Bottom Button */}
       <div className="fixed bottom-8 left-0 right-0 z-50 flex justify-center pointer-events-none">
           <a 
-            href="https://www.facebook.com/profile.php?id=61580015338194"
+            href="https://guru.gyminsight.com/join/7FWhyClX0ppqFxM?optionId=46e759de-3039-4bae-b67e-d7472f10a44c&fbclid=IwZnRzaAOTSv1leHRuA2FlbQIxMQBzcnRjBmFwcF9pZAo2NjI4NTY4Mzc5AAEeAmxJfjgx6nWrwvND_jozhCWsAMOw8u-Oo_D-eS5W_XYFmuHXMkMoiWwIGZ4_aem_VrQR238T3KXg6dw9mlLh3g"
             target="_blank"
             rel="noopener noreferrer"
             className="pointer-events-auto px-10 py-3 bg-black border-2 border-neon-orange text-neon-orange font-display font-bold text-xl uppercase tracking-wider hover:bg-neon-orange hover:text-black transition-all box-glow-orange shadow-2xl"
           >
-              Pay on Facebook
+              Join Now
           </a>
       </div>
     </>

@@ -43,7 +43,7 @@ const Hero: React.FC = () => {
         <div className="absolute inset-0 bg-black/40 backdrop-blur-[1px]"></div>
       </div>
 
-      <div className="relative z-20 container mx-auto px-4 text-center flex flex-col items-center py-20">
+      <div className="relative z-20 container mx-auto px-4 text-center flex flex-col items-center py-20 min-h-screen justify-center">
         {/* Raven Logo Removed as requested to use image behind text */}
         
         <h1 className="font-display font-bold text-6xl md:text-8xl lg:text-9xl uppercase leading-[0.9] tracking-tight mb-4 text-white drop-shadow-lg mt-12">
@@ -58,12 +58,12 @@ const Hero: React.FC = () => {
 
         <div className="flex flex-col md:flex-row gap-6 w-full md:w-auto">
           <a 
-            href="https://www.facebook.com/profile.php?id=61580015338194"
+            href="https://guru.gyminsight.com/join/7FWhyClX0ppqFxM?optionId=46e759de-3039-4bae-b67e-d7472f10a44c&fbclid=IwZnRzaAOTSv1leHRuA2FlbQIxMQBzcnRjBmFwcF9pZAo2NjI4NTY4Mzc5AAEeAmxJfjgx6nWrwvND_jozhCWsAMOw8u-Oo_D-eS5W_XYFmuHXMkMoiWwIGZ4_aem_VrQR238T3KXg6dw9mlLh3g"
             target="_blank"
             rel="noopener noreferrer"
             className="flex items-center justify-center gap-2 px-8 py-4 bg-transparent border-2 border-neon-orange text-neon-orange hover:bg-neon-orange hover:text-black transition-all duration-300 font-display font-bold text-xl uppercase tracking-wider box-glow-orange group"
           >
-            Pay on Facebook
+            Join Now
             <span className="material-icons text-base group-hover:text-black transition-colors">facebook</span>
           </a>
           
