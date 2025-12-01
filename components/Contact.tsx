@@ -1,3 +1,4 @@
+
 import React from 'react';
 import Reveal from './Reveal';
 
@@ -39,7 +40,7 @@ const Contact: React.FC = () => {
                         </div>
                         <div className="h-px bg-gray-700"></div>
                         <div>
-                            <p className="text-white font-bold mb-2 uppercase tracking-wide">Staffed Hours:</p>
+                            <p className="text-white font-bold mb-2 uppercase tracking-wide">HOURS:</p>
                             <div className="flex justify-between text-gray-400">
                                 <span>Mon - Fri</span>
                                 <span className="text-white">24 Hours</span>
